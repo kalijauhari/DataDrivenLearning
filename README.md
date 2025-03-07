@@ -1,6 +1,6 @@
 # 📊 Data Science Learning Journey  
 
-Welcome to my *Data Science Learning Journey*! This repository documents my progress, projects, and key takeaways from the courses I complete under the *DataCamp × Wentors Scholarship*.  
+Welcome to my **Data Science Learning Journey**! This repository documents my progress, projects, and key takeaways from the courses I complete under the **DataCamp × Wentors Scholarship**.  
 
 ## 🎯 Objectives  
 - Gain hands-on experience with Data Science tools and techniques.  
