@@ -10,7 +10,7 @@ Welcome to my **Data Science Learning Journey**! This repository documents my pr
 ## 📚 Courses Completed  
 | Course Name | Platform | Certificate | Key Learnings |
 |------------|----------|-------------|--------------|
-| Introduction to Data | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/bf654b421842a02b830dde505076d066ddb178c9) | - Basics of data <br> - DIKW framework|
+| Introduction to Data | DataCamp | [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/bf654b421842a02b830dde505076d066ddb178c9) | - Basics of data <br> - DIKW framework <br> - Data Security |
 
 
 ## 🌟 Connect with Me  
