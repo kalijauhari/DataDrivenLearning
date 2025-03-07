@@ -10,7 +10,7 @@ Welcome to my **Data Science Learning Journey**! This repository documents my pr
 
 ## 🌟 Connect with Me  
 📩 Email: kalijauhari@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/kali-johari-5467721b7) | [GitHub](https://github.com/kalijauhari)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kali-johari-5467721b7) | [GitHub](https://github.com/kalijauhari)  
 
 ---
 
